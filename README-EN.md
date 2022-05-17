@@ -6,7 +6,7 @@
 - apache/echarts, is an open source visualization library implemented in JavaScript: [fix resizing or rotating the window after the tooltip position does not change with it](https://github.com/apache/echarts/pull/12834), [add functional test cases]( https://github.com/apache/echarts/pull/12834)
 #### Vue.js
 
-- vuejs/vue-next, Vue3.x: [fix development without checking node version](https://github.com/vuejs/vue-next/pull/881), [refactor types to remove unnecessary any](https://github.com/vuejs/vue -next/pull/1411), [improve types](https://github.com/vuejs/vue-next/pull/1317)
+- vuejs/core, Vue3.x: [7、8 times commitment](https://github.com/vuejs/core/commits?author=liulinboyi)
 - vueComponent/ant-design-vue, Vue implementation of Ant Design: [porting components to Vue3](https://github.com/vueComponent/ant-design-vue/pull/2419)
 - vuejs/docs, Vue documentation: [fix font errors](https://github.com/vuejs/docs/pull/216)
 #### Tencent

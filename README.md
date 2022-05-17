@@ -8,7 +8,7 @@
 
 #### Vue.js
 
-- vuejs/vue-next，Vue3.x：[修复开发时没有检查node版本](https://github.com/vuejs/vue-next/pull/881)、[重构类型，移除不必要的any](https://github.com/vuejs/vue-next/pull/1411)、[改善类型](https://github.com/vuejs/vue-next/pull/1317)
+- vuejs/core，Vue3.x：[7、8次提交](https://github.com/vuejs/core/commits?author=liulinboyi)
 - vueComponent/ant-design-vue，Ant Design 的 Vue 实现：[移植组件到Vue3](https://github.com/vueComponent/ant-design-vue/pull/2419)
 - vuejs/docs，Vue文档：[修复字体错误](https://github.com/vuejs/docs/pull/216)
 
